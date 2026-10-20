@@ -1,0 +1,10 @@
+[
+{"q":"Orquídeas só servem como plantas ornamentais.","r":false,"e":"Mito. Há uso medicinal tradicional em várias regiões, pesquisas com cosméticos e a baunilha vem de uma orquídea."},
+{"q":"A baunilha vem de uma orquídea.","r":true,"e":"Verdade. Ela é extraída das vagens curadas da orquídea Vanilla planifolia."},
+{"q":"Algumas orquídeas imitam o cheiro de abelhas fêmeas para atrair os machos.","r":true,"e":"Verdade. A Ophrys sphegodes produz os mesmos compostos do feromônio sexual da abelha Andrena nigroaenea."},
+{"q":"A semente de uma orquídea germina sozinha com facilidade, na natureza.","r":false,"e":"Mito. Na natureza as sementes precisam de fungos micorrízicos, e a germinação pode levar de meses a cerca de um ano."},
+{"q":"Darwin previu a existência de uma mariposa antes de ela ser descrita pela ciência.","r":true,"e":"Verdade. Ele fez a previsão em 1862, ao ver a orquídea de esporão longo, e a mariposa foi descrita em 1903."},
+{"q":"Todas as orquídeas vivem sobre árvores.","r":false,"e":"Mito. Há as epífitas, que vivem sobre árvores, e as terrícolas, que crescem no solo. No campus da UFMA, 9 das 13 espécies são epífitas, 3 terrícolas e 1 hemiepífita."},
+{"q":"O Maranhão tem mais de 100 espécies de orquídeas confirmadas.","r":true,"e":"Verdade. Um inventário de 2022 confirmou 119 espécies em 51 gêneros."},
+{"q":"A maior parte das espécies de orquídeas atuais surgiu há centenas de milhões de anos.","r":false,"e":"Mito. O grupo é antigo, mas a maior parte da diversidade atual surgiu nos últimos 5 milhões de anos."}
+]
