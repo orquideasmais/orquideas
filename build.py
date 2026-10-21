@@ -1,6 +1,6 @@
 import json,html,os,shutil,datetime
 R=os.path.dirname(os.path.abspath(__file__));P=R+"/public"
-L=lambda n:json.load(open(f"{R}/dados/{n}.json",encoding="utf-8"))
+L=lambda n:json.load(open(f"{R}/{n}.json",encoding="utf-8"))
 E=html.escape;cfg=L("config");arts=sorted(L("artigos"),key=lambda a:a["data"],reverse=True)
 MES="janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro".split()
 def dt(s):y,m,d=map(int,s.split("-"));return f"{d} de {MES[m-1]} de {y}"
